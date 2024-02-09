@@ -22,7 +22,7 @@ This repository contains code for utilizing Jina AI to describe the content of v
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/stb-krishmark12/STB.git
+git clone https://github.com/mrnithish/Videx-Video-Summarizer.git
 cd your-repository
 Install the required Python packages:
 
