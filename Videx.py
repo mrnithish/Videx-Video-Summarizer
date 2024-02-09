@@ -2,7 +2,7 @@ import http.client
 import json
 import time
 
-YOUR_GENERATED_SECRET = "seKoKYIdUjhGtM0vMqVY:f8e84090fb47d5ab7f9d9a663e6ee936f1bb361a93da25e64f3ed3537fe591a2"
+YOUR_GENERATED_SECRET = "Your API KEY HERE"
 
 data = {
     "data": [

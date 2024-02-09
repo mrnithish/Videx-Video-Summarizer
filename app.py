@@ -5,7 +5,7 @@ import time
 
 app = Flask(__name__)
 
-YOUR_GENERATED_SECRET = "Znj3PMcwHez094Xmnr0G:8c5037b71ebb2939b86e30dfbc8ed12095e26af64767bef2dd4b8cf6e7f2c781"
+YOUR_GENERATED_SECRET = "Your API KEY HERE"
 
 @app.route('/')
 def index():
