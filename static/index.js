@@ -4,11 +4,11 @@ function summarizeVideo() {
     var loaderContainer = document.getElementById("loader-container");
     var resultContainer = document.getElementById("result-container");
     var summaryText = document.getElementById("summary-text");
-
+    summarizeButton.disabled = true;
     // Show loader
     loaderContainer.style.display = "flex";
     // Disable button during processing
-    summarizeButton.disabled = true;
+    
 
     // Use AJAX to submit the form data to the Flask endpoint
     var xhr = new XMLHttpRequest();
