@@ -70,7 +70,6 @@ def summarize():
             return jsonify({'error': 'Empty response data. Check if the API request was successful.'}), 500
 
     except Exception as e:
-        # Handle exceptions appropriately (e.g., log the error)
         return jsonify({'error': str(e)}), 500
 
 if __name__ == '__main__':
