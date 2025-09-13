@@ -2,8 +2,6 @@
 
 This repository contains code for utilizing Jina AI to describe the content of videos using various algorithms. The script sends a video to the Jina AI API for processing and waits for the results. The summary of the video content is then saved to a text file.
 
-
-
 ## Features
 
 - **Video Description:** Utilize Jina AI to generate a textual summary of the content of a given video.
