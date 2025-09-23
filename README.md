@@ -4,6 +4,7 @@ This repository contains code for utilizing Jina AI to describe the content of v
 
 ## Features
 
+
 - **Video Description:** Utilize Jina AI to generate a textual summary of the content of a given video.
   
 - **Text-to-Speech Conversion:** Convert the generated text summary to speech using a text-to-speech (TTS) engine.
