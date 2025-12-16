@@ -11,6 +11,7 @@ This repository contains code for utilizing Jina AI to describe the content of v
 - **Language Translation:** Translate the generated text summary into different languages using machine translation.
 
 
+
 ### Prerequisites
 
 - Python 3.x
